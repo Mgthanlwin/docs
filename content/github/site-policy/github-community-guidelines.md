@@ -1,4 +1,4 @@
----
+-https://github.com/github/docs/tree/github:main-
 title: GitHub Community Guidelines
 redirect_from:
   - /community-guidelines
