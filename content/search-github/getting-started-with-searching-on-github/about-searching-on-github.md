@@ -1,4 +1,4 @@
----
+---https://github.com/github/docs/tree/github:main
 title: About searching on GitHub
 intro: 'Our integrated search covers the many repositories, users, and lines of code on {% data variables.product.product_name %}.'
 redirect_from:
