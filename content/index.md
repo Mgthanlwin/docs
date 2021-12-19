@@ -1,7 +1,5 @@
----
-title: '{% data variables.product.product_name %}{% ifversion fpt or ghec%}.com{% endif %} Help Documentation'
-featuredLinks:
-  gettingStarted:
+github:main title: '{% data variables.product.product_name %}{% ifversion fpt or ghec%}.com{% endif %} Help Documentation'
+featuredLinks:gettingStarted:
     - /get-started/quickstart/set-up-git
     - /github/authenticating-to-github/connecting-to-github-with-ssh
     - /repositories/creating-and-managing-repositories
