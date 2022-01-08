@@ -1,4 +1,4 @@
----
+setting-guidelines-for-repository-contributors.md
 title: Setting guidelines for repository contributors
 intro: You can create guidelines to communicate how people should contribute to your project.
 versions:
